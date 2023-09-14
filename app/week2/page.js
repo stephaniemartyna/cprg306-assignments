@@ -1,6 +1,6 @@
 import StudentInfo from './StudentInfo';
 
-function Week2Page() {
+export default function Week2Page() {
   return (
     <div>
       <h1>My Shopping List</h1>
@@ -8,5 +8,3 @@ function Week2Page() {
     </div>
   );
 }
-
-export default Week2Page;
