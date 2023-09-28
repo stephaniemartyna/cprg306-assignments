@@ -6,7 +6,7 @@ export default function StudentInfo() {
   const githubRepo = 'https://github.com/stephaniemartyna/cprg306-assignments'
 
   return (
-    <div>
+    <div className='text-sm'>
       <p>
         Name: {myName}
       </p>
@@ -14,7 +14,7 @@ export default function StudentInfo() {
         Course Section: {courseSection}
       </p>
       <p>
-        <Link href="https://github.com/stephaniemartyna/cprg306-assignments"> {githubRepo} </Link>
+        <Link href="https://github.com/stephaniemartyna/cprg306-assignments" className='italic-sm'> {githubRepo} </Link>
       </p>
     </div>
   );
