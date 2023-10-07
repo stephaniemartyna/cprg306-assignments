@@ -10,6 +10,7 @@ export default function HomePage() {
       <p className='text-sm mt-4'><Link href="/week2">Week 2</Link></p>
       <p className='text-sm'><Link href="/week3">Week 3</Link></p>
       <p className='text-sm'><Link href="/week4">Week 4</Link></p>
+      <p className='text-sm'><Link href="/week5">Week 5</Link></p>
     </div>
     </body>
   );
