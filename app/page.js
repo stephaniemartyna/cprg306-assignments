@@ -14,6 +14,7 @@ export default function HomePage() {
       <p className='text-sm'><Link href="/week6">Week 6</Link></p>
       <p className='text-sm'><Link href="/week7">Week 7</Link></p>
       <p className='text-sm'><Link href="/week8">Week 8</Link></p>
+      <p className='text-sm'><Link href="/week10">Week 10</Link></p>
 
 
     </div>
